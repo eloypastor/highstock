@@ -1,0 +1,8 @@
+name: highstock
+version: 0.0.1
+description: Highstock API wrapped via JS interop (js package).
+environment:
+  sdk: ">=1.8.0 <2.0.0"
+dependencies:
+  uuid: '>=0.5.0 <0.6.0'
+  js: "^0.6.0"
